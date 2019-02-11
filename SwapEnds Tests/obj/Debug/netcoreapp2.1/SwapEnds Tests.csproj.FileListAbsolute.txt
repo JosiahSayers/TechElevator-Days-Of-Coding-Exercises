@@ -1,0 +1,17 @@
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\bin\Debug\netcoreapp2.1\SwapEnds Tests.deps.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\bin\Debug\netcoreapp2.1\SwapEnds Tests.runtimeconfig.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\bin\Debug\netcoreapp2.1\SwapEnds Tests.runtimeconfig.dev.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\bin\Debug\netcoreapp2.1\SwapEnds Tests.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\bin\Debug\netcoreapp2.1\SwapEnds Tests.pdb
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\bin\Debug\netcoreapp2.1\Day_1_SwapEnds.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\bin\Debug\netcoreapp2.1\Day_1_SwapEnds.pdb
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\obj\Debug\netcoreapp2.1\SwapEnds Tests.csprojAssemblyReference.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\obj\Debug\netcoreapp2.1\SwapEnds Tests.csproj.CoreCompileInputs.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\obj\Debug\netcoreapp2.1\SwapEnds Tests.AssemblyInfoInputs.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\obj\Debug\netcoreapp2.1\SwapEnds Tests.AssemblyInfo.cs
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\obj\Debug\netcoreapp2.1\SwapEnds Tests.csproj.CopyComplete
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\obj\Debug\netcoreapp2.1\SwapEnds Tests.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\SwapEnds Tests\obj\Debug\netcoreapp2.1\SwapEnds Tests.pdb

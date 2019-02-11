@@ -1,0 +1,11 @@
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 1 SwapEnds\Day 1 SwapEnds\bin\Debug\netcoreapp2.1\Day_1_SwapEnds.deps.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 1 SwapEnds\Day 1 SwapEnds\bin\Debug\netcoreapp2.1\Day_1_SwapEnds.runtimeconfig.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 1 SwapEnds\Day 1 SwapEnds\bin\Debug\netcoreapp2.1\Day_1_SwapEnds.runtimeconfig.dev.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 1 SwapEnds\Day 1 SwapEnds\bin\Debug\netcoreapp2.1\Day_1_SwapEnds.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 1 SwapEnds\Day 1 SwapEnds\bin\Debug\netcoreapp2.1\Day_1_SwapEnds.pdb
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 1 SwapEnds\Day 1 SwapEnds\obj\Debug\netcoreapp2.1\Day_1_SwapEnds.csprojAssemblyReference.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 1 SwapEnds\Day 1 SwapEnds\obj\Debug\netcoreapp2.1\Day_1_SwapEnds.csproj.CoreCompileInputs.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 1 SwapEnds\Day 1 SwapEnds\obj\Debug\netcoreapp2.1\Day_1_SwapEnds.AssemblyInfoInputs.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 1 SwapEnds\Day 1 SwapEnds\obj\Debug\netcoreapp2.1\Day_1_SwapEnds.AssemblyInfo.cs
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 1 SwapEnds\Day 1 SwapEnds\obj\Debug\netcoreapp2.1\Day_1_SwapEnds.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 1 SwapEnds\Day 1 SwapEnds\obj\Debug\netcoreapp2.1\Day_1_SwapEnds.pdb

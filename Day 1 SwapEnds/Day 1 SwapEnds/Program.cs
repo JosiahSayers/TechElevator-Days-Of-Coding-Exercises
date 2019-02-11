@@ -2,11 +2,13 @@
 
 namespace Day_1_SwapEnds
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            SwapEnd test = new SwapEnd();
         }
     }
 }

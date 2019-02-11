@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 1 SwapEnds\\Day 1 SwapEnds\\Day 1 SwapEnds\\Day 1 SwapEnds.csproj",
-      "projectName": "Day 1 SwapEnds",
-      "projectPath": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 1 SwapEnds\\Day 1 SwapEnds\\Day 1 SwapEnds\\Day 1 SwapEnds.csproj",
+      "projectUniqueName": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 1 SwapEnds\\Day 1 SwapEnds\\Day_1_SwapEnds.csproj",
+      "projectName": "Day_1_SwapEnds",
+      "projectPath": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 1 SwapEnds\\Day 1 SwapEnds\\Day_1_SwapEnds.csproj",
       "packagesPath": "C:\\Users\\josiahs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 1 SwapEnds\\Day 1 SwapEnds\\Day 1 SwapEnds\\obj\\",
+      "outputPath": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 1 SwapEnds\\Day 1 SwapEnds\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
