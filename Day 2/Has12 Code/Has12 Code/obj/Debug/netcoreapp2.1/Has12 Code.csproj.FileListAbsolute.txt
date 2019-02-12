@@ -1,0 +1,11 @@
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 2\Has12 Code\Has12 Code\bin\Debug\netcoreapp2.1\Has12 Code.deps.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 2\Has12 Code\Has12 Code\bin\Debug\netcoreapp2.1\Has12 Code.runtimeconfig.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 2\Has12 Code\Has12 Code\bin\Debug\netcoreapp2.1\Has12 Code.runtimeconfig.dev.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 2\Has12 Code\Has12 Code\bin\Debug\netcoreapp2.1\Has12 Code.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 2\Has12 Code\Has12 Code\bin\Debug\netcoreapp2.1\Has12 Code.pdb
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 2\Has12 Code\Has12 Code\obj\Debug\netcoreapp2.1\Has12 Code.csprojAssemblyReference.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 2\Has12 Code\Has12 Code\obj\Debug\netcoreapp2.1\Has12 Code.csproj.CoreCompileInputs.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 2\Has12 Code\Has12 Code\obj\Debug\netcoreapp2.1\Has12 Code.AssemblyInfoInputs.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 2\Has12 Code\Has12 Code\obj\Debug\netcoreapp2.1\Has12 Code.AssemblyInfo.cs
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 2\Has12 Code\Has12 Code\obj\Debug\netcoreapp2.1\Has12 Code.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 2\Has12 Code\Has12 Code\obj\Debug\netcoreapp2.1\Has12 Code.pdb
