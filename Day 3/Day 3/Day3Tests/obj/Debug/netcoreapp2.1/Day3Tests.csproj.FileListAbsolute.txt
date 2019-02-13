@@ -1,0 +1,17 @@
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\bin\Debug\netcoreapp2.1\Day3Tests.deps.json
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\bin\Debug\netcoreapp2.1\Day3Tests.runtimeconfig.json
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\bin\Debug\netcoreapp2.1\Day3Tests.runtimeconfig.dev.json
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\bin\Debug\netcoreapp2.1\Day3Tests.dll
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\bin\Debug\netcoreapp2.1\Day3Tests.pdb
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\bin\Debug\netcoreapp2.1\Day 3.dll
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\bin\Debug\netcoreapp2.1\Day 3.pdb
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\obj\Debug\netcoreapp2.1\Day3Tests.csprojAssemblyReference.cache
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\obj\Debug\netcoreapp2.1\Day3Tests.csproj.CoreCompileInputs.cache
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\obj\Debug\netcoreapp2.1\Day3Tests.AssemblyInfoInputs.cache
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\obj\Debug\netcoreapp2.1\Day3Tests.AssemblyInfo.cs
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\obj\Debug\netcoreapp2.1\Day3Tests.csproj.CopyComplete
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\obj\Debug\netcoreapp2.1\Day3Tests.dll
+C:\Users\josiahs\source\repos\Day 3\Day3Tests\obj\Debug\netcoreapp2.1\Day3Tests.pdb
