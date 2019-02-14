@@ -12,8 +12,8 @@ namespace Day4Tests
             Start test = new Start();
 
             Assert.AreEqual(2, test.Start1(new int[] { 1, 2, 3 }, new int[] { 1, 2 }));
-            Assert.AreEqual(2, test.Start1(new int[] { 7, 2, 3 }, new int[] { 1 }));
-            Assert.AreEqual(2, test.Start1(new int[] { 1, 2 }, new int[] { 1 }));
+            Assert.AreEqual(1, test.Start1(new int[] { 7, 2, 3 }, new int[] { 1 }));
+            Assert.AreEqual(1, test.Start1(new int[] { 1, 2 }, new int[0]));
         }
     }
 }
