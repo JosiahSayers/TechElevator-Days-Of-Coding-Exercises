@@ -1,0 +1,11 @@
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14/bin/Debug/netcoreapp2.2/Only14.deps.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14/bin/Debug/netcoreapp2.2/Only14.runtimeconfig.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14/bin/Debug/netcoreapp2.2/Only14.runtimeconfig.dev.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14/bin/Debug/netcoreapp2.2/Only14.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14/bin/Debug/netcoreapp2.2/Only14.pdb
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14/obj/Debug/netcoreapp2.2/Only14.csprojAssemblyReference.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14/obj/Debug/netcoreapp2.2/Only14.csproj.CoreCompileInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14/obj/Debug/netcoreapp2.2/Only14.AssemblyInfoInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14/obj/Debug/netcoreapp2.2/Only14.AssemblyInfo.cs
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14/obj/Debug/netcoreapp2.2/Only14.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14/obj/Debug/netcoreapp2.2/Only14.pdb

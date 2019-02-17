@@ -1,0 +1,17 @@
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/bin/Debug/netcoreapp2.2/Only14Tests.deps.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/bin/Debug/netcoreapp2.2/Only14Tests.runtimeconfig.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/bin/Debug/netcoreapp2.2/Only14Tests.runtimeconfig.dev.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/bin/Debug/netcoreapp2.2/Only14Tests.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/bin/Debug/netcoreapp2.2/Only14Tests.pdb
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/bin/Debug/netcoreapp2.2/Only14.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/bin/Debug/netcoreapp2.2/Only14.pdb
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/obj/Debug/netcoreapp2.2/Only14Tests.csprojAssemblyReference.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/obj/Debug/netcoreapp2.2/Only14Tests.csproj.CoreCompileInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/obj/Debug/netcoreapp2.2/Only14Tests.AssemblyInfoInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/obj/Debug/netcoreapp2.2/Only14Tests.AssemblyInfo.cs
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/obj/Debug/netcoreapp2.2/Only14Tests.csproj.CopyComplete
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/obj/Debug/netcoreapp2.2/Only14Tests.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 6/Only14/Only14Tests/obj/Debug/netcoreapp2.2/Only14Tests.pdb
