@@ -1,0 +1,11 @@
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 7/NoTriples/NoTriples/bin/Debug/netcoreapp2.2/NoTriples.deps.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 7/NoTriples/NoTriples/bin/Debug/netcoreapp2.2/NoTriples.runtimeconfig.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 7/NoTriples/NoTriples/bin/Debug/netcoreapp2.2/NoTriples.runtimeconfig.dev.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 7/NoTriples/NoTriples/bin/Debug/netcoreapp2.2/NoTriples.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 7/NoTriples/NoTriples/bin/Debug/netcoreapp2.2/NoTriples.pdb
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 7/NoTriples/NoTriples/obj/Debug/netcoreapp2.2/NoTriples.csprojAssemblyReference.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 7/NoTriples/NoTriples/obj/Debug/netcoreapp2.2/NoTriples.csproj.CoreCompileInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 7/NoTriples/NoTriples/obj/Debug/netcoreapp2.2/NoTriples.AssemblyInfoInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 7/NoTriples/NoTriples/obj/Debug/netcoreapp2.2/NoTriples.AssemblyInfo.cs
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 7/NoTriples/NoTriples/obj/Debug/netcoreapp2.2/NoTriples.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 7/NoTriples/NoTriples/obj/Debug/netcoreapp2.2/NoTriples.pdb

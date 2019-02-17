@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{36B47DCC-428F-4CE8-B756-4616AF0E559E}|Default">
+  <MonoDevelop.Ide.ItemProperties.NoTriplesTests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoTriples/Triples.cs">
+    <Files>
+      <File FileName="NoTriples/Program.cs" Line="11" Column="1" />
+      <File FileName="NoTriplesTests/UnitTest1.cs" Line="11" Column="10" />
+      <File FileName="NoTriples/Triples.cs" Line="7" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NoTriples FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

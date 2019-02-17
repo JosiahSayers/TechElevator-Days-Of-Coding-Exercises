@@ -1,13 +1,6 @@
 ﻿<Properties StartupConfiguration="{3A9358F4-BD31-4F11-854A-D4C14E527B17}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Only14Tests/UnitTest1.cs">
-    <Files>
-      <File FileName="Only14/Program.cs" Line="11" Column="9" />
-      <File FileName="Only14/Only.cs" Line="7" Column="10" />
-      <File FileName="Only14Tests/UnitTest1.cs" Line="9" Column="9" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Only14 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Only14Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.Only14 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
