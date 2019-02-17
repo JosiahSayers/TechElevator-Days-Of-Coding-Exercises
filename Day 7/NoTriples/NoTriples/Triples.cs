@@ -5,7 +5,18 @@ namespace Day7
     {
         public bool NoTriples(int[] nums)
         {
-            return true;
+            bool output = true;
+            if(nums.Length > 2)
+            {
+                for(int i=2; i<nums.Length; i++)
+                {
+                    if(nums[i] == nums[i-1] && nums[i] == nums[i-2])
+                    {
+                        output = false;
+                    }
+                }
+            }
+            return output;
         }
     }
 }
