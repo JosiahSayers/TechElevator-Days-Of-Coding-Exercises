@@ -11,9 +11,9 @@ namespace Only14Tests
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(true, new int[] { 1, 4, 1, 4 });
-            Assert.AreEqual(false, new int[] { 1, 4, 2, 5 });
-            Assert.AreEqual(true, new int[] { 1, 1 });
+            Assert.AreEqual(true, test.Only14(new int[] { 1, 4, 1, 4 }));
+            Assert.AreEqual(false, test.Only14(new int[] { 1, 4, 2, 5 }));
+            Assert.AreEqual(true, test.Only14(new int[] { 1, 1 }));
         }
     }
 }
