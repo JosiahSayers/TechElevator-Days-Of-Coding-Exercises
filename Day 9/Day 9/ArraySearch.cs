@@ -8,7 +8,16 @@ namespace Day_9
     {
         public bool No14(int[] arr)
         {
-            return false;
+            bool output = true;
+            List<int> list = new List<int>();
+            list.AddRange(arr);
+
+            if(list.Contains(1) || list.Contains(4))
+            {
+                output = false;
+            }
+
+            return output;
         }
     }
 }
