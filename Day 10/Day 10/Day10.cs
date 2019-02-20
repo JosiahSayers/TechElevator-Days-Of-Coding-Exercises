@@ -11,6 +11,18 @@ namespace Day_10
             int numOnes = 0;
             int numFours = 0;
 
+            foreach(int num in nums)
+            {
+                if(num == 1)
+                {
+                    numOnes++;
+                }
+                else if(num == 4)
+                {
+                    numFours++;
+                }
+            }
+
             return numOnes > numFours ? true : false;
         }
     }

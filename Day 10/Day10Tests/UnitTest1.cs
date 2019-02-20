@@ -12,8 +12,8 @@ namespace Day10Tests
             Day10 test = new Day10();
 
             Assert.AreEqual(true, test.More14(new int[] { 1, 4, 1 }));
-            Assert.AreEqual(false, new int[] { 1, 4, 1, 4 });
-            Assert.AreEqual(true, new int[] { 1, 1 });
+            Assert.AreEqual(false, test.More14(new int[] { 1, 4, 1, 4 }));
+            Assert.AreEqual(true, test.More14(new int[] { 1, 1 }));
         }
     }
 }
