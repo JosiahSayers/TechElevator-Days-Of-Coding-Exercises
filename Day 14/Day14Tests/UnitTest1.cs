@@ -9,9 +9,9 @@ namespace Day14Tests
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(true, Program.LessBy10(1, 7, 11));
-            Assert.AreEqual(false, Program.LessBy10(1, 7, 10));
-            Assert.AreEqual(true, Program.LessBy10(11, 1, 7));
+            Assert.AreEqual(true, Program.LessBy10(1, 7, 11), "Test1");
+            Assert.AreEqual(false, Program.LessBy10(1, 7, 10), "Test2");
+            Assert.AreEqual(true, Program.LessBy10(11, 1, 7), "Test3");
 
         }
     }
