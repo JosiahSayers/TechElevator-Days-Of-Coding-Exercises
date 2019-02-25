@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 2\\Has12 Code\\Has12 Code.csproj",
-      "projectName": "Has12 Code",
-      "projectPath": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 2\\Has12 Code\\Has12 Code.csproj",
+      "projectUniqueName": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 12\\Day 12\\Day 12.csproj",
+      "projectName": "Day 12",
+      "projectPath": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 12\\Day 12\\Day 12.csproj",
       "packagesPath": "C:\\Users\\josiahs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 2\\Has12 Code\\obj\\",
+      "outputPath": "C:\\Users\\josiahs\\code\\TechElevator-Days-Of-Coding-Exercises\\Day 12\\Day 12\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
