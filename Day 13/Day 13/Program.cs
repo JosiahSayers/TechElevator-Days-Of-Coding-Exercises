@@ -11,7 +11,10 @@ namespace Day_13
 
         public static int[] MakeEnds(int[] nums)
         {
-            int[] output = new int[0];
+            int[] output = new int[2];
+
+            output[0] = nums[0];
+            output[1] = nums[nums.Length - 1];
 
             return output;
         }
