@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F2051061-6F40-4CBB-AC99-64B394FCB225}|Default">
+  <MonoDevelop.Ide.ItemProperties.Day15Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Day15 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Day15Tests/UnitTest1.cs">
+    <Files>
+      <File FileName="Day15/Program.cs" Line="1" Column="1" />
+      <File FileName="../Day15Tests/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

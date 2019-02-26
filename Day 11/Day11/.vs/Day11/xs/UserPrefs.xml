@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{94855696-79C5-485C-AE76-86E45C4ADA68}|Default">
-  <MonoDevelop.Ide.ItemProperties.Day11Tests FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../Day11Tests/UnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day11/Program.cs">
     <Files>
-      <File FileName="Day11/Program.cs" Line="16" Column="27" />
-      <File FileName="../Day11Tests/UnitTest1.cs" Line="11" Column="39" />
+      <File FileName="Day11/Program.cs" Line="14" Column="85" />
+      <File FileName="../Day11Tests/UnitTest1.cs" Line="15" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Day11 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day11 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
