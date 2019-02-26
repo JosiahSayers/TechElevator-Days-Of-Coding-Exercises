@@ -1,0 +1,11 @@
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 8\Day8\Day8\bin\Debug\netcoreapp2.1\Day8.deps.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 8\Day8\Day8\bin\Debug\netcoreapp2.1\Day8.runtimeconfig.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 8\Day8\Day8\bin\Debug\netcoreapp2.1\Day8.runtimeconfig.dev.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 8\Day8\Day8\bin\Debug\netcoreapp2.1\Day8.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 8\Day8\Day8\bin\Debug\netcoreapp2.1\Day8.pdb
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 8\Day8\Day8\obj\Debug\netcoreapp2.1\Day8.csprojAssemblyReference.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 8\Day8\Day8\obj\Debug\netcoreapp2.1\Day8.csproj.CoreCompileInputs.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 8\Day8\Day8\obj\Debug\netcoreapp2.1\Day8.AssemblyInfoInputs.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 8\Day8\Day8\obj\Debug\netcoreapp2.1\Day8.AssemblyInfo.cs
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 8\Day8\Day8\obj\Debug\netcoreapp2.1\Day8.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 8\Day8\Day8\obj\Debug\netcoreapp2.1\Day8.pdb

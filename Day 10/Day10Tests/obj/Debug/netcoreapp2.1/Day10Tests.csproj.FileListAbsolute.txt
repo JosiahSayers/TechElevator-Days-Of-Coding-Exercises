@@ -1,0 +1,17 @@
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\bin\Debug\netcoreapp2.1\Day10Tests.deps.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\bin\Debug\netcoreapp2.1\Day10Tests.runtimeconfig.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\bin\Debug\netcoreapp2.1\Day10Tests.runtimeconfig.dev.json
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\bin\Debug\netcoreapp2.1\Day10Tests.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\bin\Debug\netcoreapp2.1\Day10Tests.pdb
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\bin\Debug\netcoreapp2.1\Day 10.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\bin\Debug\netcoreapp2.1\Day 10.pdb
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\obj\Debug\netcoreapp2.1\Day10Tests.csprojAssemblyReference.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\obj\Debug\netcoreapp2.1\Day10Tests.csproj.CoreCompileInputs.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\obj\Debug\netcoreapp2.1\Day10Tests.AssemblyInfoInputs.cache
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\obj\Debug\netcoreapp2.1\Day10Tests.AssemblyInfo.cs
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\obj\Debug\netcoreapp2.1\Day10Tests.csproj.CopyComplete
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\obj\Debug\netcoreapp2.1\Day10Tests.dll
+C:\Users\josiahs\code\TechElevator-Days-Of-Coding-Exercises\Day 10\Day10Tests\obj\Debug\netcoreapp2.1\Day10Tests.pdb

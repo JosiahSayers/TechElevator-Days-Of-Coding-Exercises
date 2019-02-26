@@ -1,0 +1,17 @@
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/bin/Debug/netcoreapp2.2/Day11Tests.deps.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/bin/Debug/netcoreapp2.2/Day11Tests.runtimeconfig.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/bin/Debug/netcoreapp2.2/Day11Tests.runtimeconfig.dev.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/bin/Debug/netcoreapp2.2/Day11Tests.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/bin/Debug/netcoreapp2.2/Day11Tests.pdb
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/bin/Debug/netcoreapp2.2/Day11.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/bin/Debug/netcoreapp2.2/Day11.pdb
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/obj/Debug/netcoreapp2.2/Day11Tests.csprojAssemblyReference.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/obj/Debug/netcoreapp2.2/Day11Tests.csproj.CoreCompileInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/obj/Debug/netcoreapp2.2/Day11Tests.AssemblyInfoInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/obj/Debug/netcoreapp2.2/Day11Tests.AssemblyInfo.cs
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/obj/Debug/netcoreapp2.2/Day11Tests.csproj.CopyComplete
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/obj/Debug/netcoreapp2.2/Day11Tests.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11Tests/obj/Debug/netcoreapp2.2/Day11Tests.pdb

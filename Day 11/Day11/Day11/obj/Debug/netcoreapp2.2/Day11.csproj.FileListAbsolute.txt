@@ -1,0 +1,11 @@
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11/Day11/bin/Debug/netcoreapp2.2/Day11.deps.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11/Day11/bin/Debug/netcoreapp2.2/Day11.runtimeconfig.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11/Day11/bin/Debug/netcoreapp2.2/Day11.runtimeconfig.dev.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11/Day11/bin/Debug/netcoreapp2.2/Day11.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11/Day11/bin/Debug/netcoreapp2.2/Day11.pdb
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11/Day11/obj/Debug/netcoreapp2.2/Day11.csprojAssemblyReference.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11/Day11/obj/Debug/netcoreapp2.2/Day11.csproj.CoreCompileInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11/Day11/obj/Debug/netcoreapp2.2/Day11.AssemblyInfoInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11/Day11/obj/Debug/netcoreapp2.2/Day11.AssemblyInfo.cs
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11/Day11/obj/Debug/netcoreapp2.2/Day11.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 11/Day11/Day11/obj/Debug/netcoreapp2.2/Day11.pdb
