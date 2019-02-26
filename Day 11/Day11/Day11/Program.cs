@@ -11,9 +11,7 @@ namespace Day11
 
         public static int[] MakeMiddle(int[] nums)
         {
-            int[] output = new int[0];
-
-            return output;
+            return new int[] { nums[(nums.Length / 2) - 1], nums[nums.Length / 2] };
         }
     }
 }
