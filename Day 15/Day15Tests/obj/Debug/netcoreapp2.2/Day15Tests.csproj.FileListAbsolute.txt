@@ -1,0 +1,17 @@
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/bin/Debug/netcoreapp2.2/Day15Tests.deps.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/bin/Debug/netcoreapp2.2/Day15Tests.runtimeconfig.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/bin/Debug/netcoreapp2.2/Day15Tests.runtimeconfig.dev.json
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/bin/Debug/netcoreapp2.2/Day15Tests.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/bin/Debug/netcoreapp2.2/Day15Tests.pdb
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/bin/Debug/netcoreapp2.2/Day15.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/bin/Debug/netcoreapp2.2/Day15.pdb
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/obj/Debug/netcoreapp2.2/Day15Tests.csprojAssemblyReference.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/obj/Debug/netcoreapp2.2/Day15Tests.csproj.CoreCompileInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/obj/Debug/netcoreapp2.2/Day15Tests.AssemblyInfoInputs.cache
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/obj/Debug/netcoreapp2.2/Day15Tests.AssemblyInfo.cs
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/obj/Debug/netcoreapp2.2/Day15Tests.csproj.CopyComplete
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/obj/Debug/netcoreapp2.2/Day15Tests.dll
+/Users/Josiah/Documents/Projects/TechElevator-Days-Of-Coding-Exercises/Day 15/Day15Tests/obj/Debug/netcoreapp2.2/Day15Tests.pdb
